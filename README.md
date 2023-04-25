@@ -15,6 +15,7 @@ This Python script creates a recommended folder structure for a video project. T
     - `logos`: Logos used in the video project
     - `lower_thirds`: Lower thirds graphics used in the video project
     - `titles`: Titles used in the video project
+- `scripts_and_storyboards`: Scripts and storyboards for the video project
 - `other`: Other miscellaneous files related to the video project
 
 ## Requirements

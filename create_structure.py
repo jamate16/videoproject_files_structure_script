@@ -18,6 +18,7 @@ FOLDER_STRUCTURE = {
         'lower_thirds': None,
         'titles': None
     },
+    'scripts_and_storyboards': None,
     'other': None
 }
 
